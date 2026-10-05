@@ -1,6 +1,6 @@
 # Programming 1 CS CUNI
 
-**Charles University Computer Science BSc Programming 1 lecture & tutorial solutions (not homework at the moment, I'm not sure I'm allowed)**
+**Charles University Computer Science BSc Programming 1 lecture & tutorial solutions (not homework)**
 
 These are my personal solutions I solve in class, they may be not very efficient at times so keep that in mind :)
 
