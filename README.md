@@ -1,4 +1,4 @@
-# Programming 1 CS CUNI
+# Programming 1 & Intro To Algorithms CS CUNI
 
 **Charles University Computer Science BSc Programming 1 lecture & tutorial solutions (not homework)**
 
