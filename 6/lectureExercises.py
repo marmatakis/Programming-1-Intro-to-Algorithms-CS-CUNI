@@ -165,4 +165,3 @@ class Date:
 
 x = Date(3, 1).add(1832)
 print(x.m, x.d)
-        
